@@ -1,5 +1,5 @@
 <?php
-$server = 'localhost';
+$server = '128.61.103.114';
 $username = 'root';
 $password = 'password';
 $database = 'cardHistory';
